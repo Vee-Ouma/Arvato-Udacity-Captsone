@@ -26,7 +26,7 @@ Project is divided into two components :
 	- 2.**Supervised Learning Model**:  The second section is used to build a supervised model for prediction if a person is a good target for a mail-compaign. In orther words, to predict those clients that are likely to become new customers. For that a new TRAIN dataset is provided.
 	- 3.**Kaggle Competition**?: Taking part to a kaggle competition with a TEST dataset provided ans see how the developed model performs amongst others.
 
-- A summary of the findings a medium short article [Medium]().
+- A summary of the findings a medium short article [Medium](https://medium.com/@christopher.hogendijk/improve-customer-acquisition-with-machine-learning-64bcdf4b8d0d).
 
 
 ## Datasets
