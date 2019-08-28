@@ -11,6 +11,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [Matplotlib](https://matplotlib.org/)
 - [Pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/install.html)
 
 
 ## Overview:
