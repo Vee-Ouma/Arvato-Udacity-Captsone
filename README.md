@@ -21,14 +21,12 @@ This work is part of the Captsone project for the 2nd term of the Udacity Data S
 
 Project is divided into two components : 
 
-- 1. A Jupyter notebook in python which conducts the analysis and contains the models. There are three main sections : 
-	- 
+- A Jupyter notebook in python which conducts the analysis and contains the models. There are three main sections : 
+	- 1.**Customer Segmentation Report**:  This section is dedicated to data preprocessing and building of unsupervised models in order to differente the company's customers from the general population. The two two mains datasets are a table of Customers, and a table of General Population (both with several hundreads of thousands of entries)
+	- 2.**Supervised Learning Model**:  The second section is used to build a supervised model for prediction if a person is a good target for a mail-compaign. In orther words, to predict those clients that are likely to become new customers. For that a new TRAIN dataset is provided.
+	- 3.**Kaggle Competition**?: Taking part to a kaggle competition with a TEST dataset provided ans see how the developed model performs amongst others.
 
-- 1.**Customer Segmentation Report**:  This section is dedicated to data preprocessing and building of unsupervised models in order to differente the company's customers from the general population. The two two mains datasets are a table of Customers, and a table of General Population (both with several hundreads of thousands of entries)
-- 2.**Supervised Learning Model**:  The second section is used to build a supervised model for prediction if a person is a good target for a mail-compaign. In orther words, to predict those clients that are likely to become new customers. For that a new TRAIN dataset is provided.
-- 3.**Kaggle Competition**?: Taking part to a kaggle competition with a TEST dataset provided ans see how the developed model performs amongst others.
-
-Summary of the findings are published in the article linked below [Medium]().
+- A summary of the findings a medium short article [Medium]().
 
 
 ## Datasets
